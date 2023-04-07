@@ -16,7 +16,8 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ali-abd-el-fatah-14ba461a5/" target="_blank"><img src="https://img.shields.io/badge/-Ali%Abd El-Fattah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ali-abd-el-fatah-14ba461a5" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Abd El Fattah-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
